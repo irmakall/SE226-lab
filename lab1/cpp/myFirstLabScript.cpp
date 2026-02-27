@@ -3,7 +3,7 @@ using namespace std;
 int main()
 {
     string name;
-    int student_ID;
+    string student_ID;
     cout << "What is your name?"<<endl;
     cin >> name;
     cout << "Hello "<<name << endl;
