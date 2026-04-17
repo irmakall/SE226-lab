@@ -1,5 +1,3 @@
-from multiprocessing.managers import SyncManager
-
 
 def calculate_mean(num_list):
     sum=0
